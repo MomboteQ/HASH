@@ -2,7 +2,7 @@
 
 Best tool for cracking hashes using online database and brute force.
 
-![](https://momboteq.github.io/assets/hash++.1ca5b466.png)
+![](https://momboteq.github.io/_nuxt/hash_.55c7aadb.webp)
 
 ## Linux
 ### Instalation
